@@ -1,7 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+<p align="center">
+  <img src="./show/ver01.gif" alt="screenshot">
+</p>
 
 ### WHAT
-
+Music player :)
 
 
 
@@ -35,3 +38,4 @@ https://letsbuildui.dev/articles/building-an-audio-player-with-react-hooks
 
 https://reactjs.org/docs/react-component.html
 https://dev.to/david4473/working-with-images-in-next-js-48d6
+https://stackoverflow.com/questions/47686345/playing-sound-in-react-js
