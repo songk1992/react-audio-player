@@ -1,15 +1,13 @@
-import styled, { keyframes } from "styled-components";
+import styled, { keyframes } from 'styled-components';
 
 export const AudioControlsStyle = styled.div`
+  & {
+  }
 
-& {
-
-}
-
-& button{
+  & button {
     width: 50px;
     height: 50px;
     background: transparent;
     border-radius: 50%;
-}
+  }
 `;

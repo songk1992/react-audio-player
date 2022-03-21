@@ -6,14 +6,6 @@
 ### WHAT
 Music player :)
 
-
-
-
-
-
-
-
-
 ### HOW
 
 made using
@@ -34,8 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### REF
 
-https://letsbuildui.dev/articles/building-an-audio-player-with-react-hooks
-
-https://reactjs.org/docs/react-component.html
-https://dev.to/david4473/working-with-images-in-next-js-48d6
-https://stackoverflow.com/questions/47686345/playing-sound-in-react-js
+https://letsbuildui.dev/articles/building-an-audio-player-with-react-hooks   
+https://reactjs.org/docs/react-component.html   
+https://dev.to/david4473/working-with-images-in-next-js-48d6   
+https://stackoverflow.com/questions/47686345/playing-sound-in-react-js   
